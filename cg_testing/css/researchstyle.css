@@ -1,0 +1,98 @@
+/*
+    #####################
+	Research Styles 
+	#####################
+*/
+
+#research {
+	margin:0px;
+}
+	
+	#research {
+		width:820px;
+		margin-left:auto;
+		margin-right:auto;
+	} 
+	
+		#back img {
+			margin-right:5px;
+		}
+
+		#back {
+			font-size:15px;
+			text-align: left;
+			letter-spacing: -0.5px;
+			color:#2485df;
+			font-family:TradeGothicCondensed, Helvetica, Arial, "san-serif";
+			display: inline-block;
+			position: absolute;
+			margin-top: 30px;
+		}
+
+			#research h2{
+				margin-top:30px;
+				margin-bottom:25px;
+				font-size:25px;
+				text-align: center;
+				color:#2485df;
+				font-family:TradeGothicBoldCondensed, Helvetica, Arial, "san-serif";
+				display: block;
+			}
+
+			#research > p, #research a {
+				font-family:TradeGothic, Helvetica, Arial, "san-serif";
+				font-size:13px;
+				line-height:18px;
+				color:#8e8e8e;
+			}
+		
+				#research > p.author {
+					font-family:TradeGothicBoldCondensed, Helvetica, Arial, "san-serif";
+					font-size:18px;
+					color:#2485df;
+					margin-top:25px;
+					margin-bottom:20px;
+				}
+			
+				#research > p.quotes {
+					font-family:TradeGothicOblique, Helvetica, Arial, "san-serif";
+					font-size:13px;
+					line-height:18px;
+					color:#8e8e8e;
+				}
+                
+                #research > p a:hover {
+                    color:#ffffff;
+                    background-color:#2485df;
+                    text-decoration:none;
+                }
+			
+	img.line_1 {
+		margin-top:0px;
+		margin-bottom:0px;
+		display:block;
+	}
+			
+	.line_2 {
+		margin-top:40px;
+		margin-bottom:40px;
+	}
+			
+	.line_3 {
+		margin-top:40px;
+			}
+			
+	.line_4 {
+		margin-top:20px;
+			}
+
+
+/*
+    #####################
+	Lightbox Styles 
+	#####################
+*/		
+
+.lb-data .lb-caption {
+	font-weight:normal !important;
+}

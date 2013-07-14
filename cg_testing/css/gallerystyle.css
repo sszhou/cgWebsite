@@ -1,0 +1,95 @@
+/*
+    #####################
+	Featured Works Styles 
+	#####################
+*/
+
+#gallery {
+	background-color: #f6f6f6;
+	margin:0px;
+}
+	
+	#featured_works {
+		padding-top:20px;
+		padding-bottom: 40px;
+		width:820px;
+		margin-left:auto;
+		margin-right:auto;
+	} 
+
+		#featured_works h2{
+			margin-top:20px;
+			margin-bottom:0px;
+			font-size:25px;
+			text-align: left;
+			color:#2485df;
+			font-family:TradeGothicBoldCondensed, Helvetica, Arial, "san-serif";
+		}
+			
+			
+	.line_4 {
+		margin-top: 20px;
+		margin-bottom: 0px;
+			}
+			
+
+/*
+    #####################
+	Other Works Styles 
+	#####################
+*/
+
+#thumbs{
+	margin-top: 40px;
+	width: 850px;
+}
+
+.view{
+   width: 400px;
+   height: 300px;
+   margin-right: 20px;
+   margin-bottom: 0px;
+   float: left;
+   overflow: hidden;
+   position: relative;
+   text-align: center;
+   cursor: default;
+}
+
+.view p{
+	font-family:TradeGothic, Helvetica, Arial, "san-serif";
+	text-align: left;
+}
+
+.view img{
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+.view img:hover{
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	opacity: .7;
+}
+
+.vids{
+	margin-top:40px;
+}
+
+/*
+    #####################
+	Lightbox Styles 
+	#####################
+*/		
+
+.lb-data .lb-caption {
+	font-weight:normal !important;
+}

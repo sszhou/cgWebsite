@@ -1,0 +1,105 @@
+#scholwrap{
+	display: inline-block;
+	width: 100%;
+	background-color: #f6f6f6;
+}
+
+#scholarship {
+	width: 820px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#heading{
+	display: inline;
+}
+
+#scholarship h1{
+	display: block;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	color: #2485df;
+	float: left;
+	font-family: TradeGothicCondensed, Helvetica, Arial, "san-serif";
+	font-size: 25px;
+	text-align: left;
+}
+
+#scholarship h2{
+	margin: 0;
+	padding: 0;
+	color: #2485df;
+	float: left;
+	font-family: TradeGothicBoldCondensed, Helvetica, Arial, "san-serif";
+	font-size: 30px;
+	text-align: left;
+}
+
+#scholarship p{
+	color: #666666;
+	float: left;
+	font-family: TradeGothic, Helvetica, Arial, "san-serif";
+	font-size: 20px;
+	text-align: left;
+}
+
+#scholarship a{
+	color: #2485df;
+}
+#scholarship a:hover;{
+	text-decoration: underline;
+}
+
+#scholarship img{
+	display: block;
+	width: 60px;
+	float: left;
+}
+
+#method{
+	display: inline-block;
+	width: 820px;
+	margin-bottom: 60px;
+}
+
+#docinfo{
+	display: inline;
+	width: 720px;
+	float: right;
+}
+
+#value{
+	display: inline-block;
+	width: 820px;
+	margin-bottom: 60px;
+}
+
+#moneyinfo{
+	display: inline;
+	width: 720px;
+	float: right;
+}
+
+#accountability{
+	display: inline-block;
+	width: 820px;
+	margin-bottom: 60px;
+}
+
+#exclaminfo{
+	display: inline;
+	width: 720px;
+	float: right;
+}
+
+#more{
+	display: inline-block;
+	width: 820px;
+	margin-bottom: 60px;
+}
+
+#infoinfo{
+	display: inline;
+	width: 720px;
+	float: right;
+}

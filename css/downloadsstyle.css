@@ -1,0 +1,101 @@
+/*
+    #####################
+	Downloads Styles 
+	#####################
+*/
+
+#downloads {
+	margin:0px;
+}
+	
+	#downloads {
+		width:820px;
+		margin-left:auto;
+		margin-right:auto;
+	} 
+
+			#downloads h2{
+				margin-top:30px;
+				margin-bottom:25px;
+				font-size:25px;
+				text-align: center;
+				color:#2485df;
+				font-family:TradeGothicBoldCondensed, Helvetica, Arial, "san-serif";
+				display: block;
+			}
+			
+			#downloads h4{
+				margin-bottom:0px;
+				font-family:TradeGothicBoldCondensed, Helvetica, Arial, "san-serif";
+				font-size:15px;
+				color:#2485df;
+				font-weight: 400;
+			}
+			
+			#downloads p{
+				font-family:TradeGothic, Helvetica, Arial, "san-serif";
+				font-size:13px;
+				color:#8e8e8e;
+				margin-top:5px;
+				margin-bottom:35px;
+			}
+
+			#downloads > ul {
+				font-family:TradeGothic, Helvetica, Arial, "san-serif";
+				font-size:13px;
+				line-height:18px;
+				color:#8e8e8e;
+				padding-left:0px;
+				float: left;
+				display:inline-block;
+				margin-top:0px;
+				margin-bottom:0px;
+			}
+			
+			#downloads > ul li {
+				list-style:none;
+			}
+			
+			#downloads > ul a {
+				font-family:TradeGothicBoldCondensed, Helvetica, Arial, "san-serif";
+				font-size:15px;
+				color:#2485df;
+				font-weight: 400;
+			}
+			
+			#downloads > ul a:hover {
+				color:#ffffff;
+				background-color:#2485df;
+				text-decoration:none;
+			}
+
+			
+	img.line_1 {
+		margin-top:0px;
+		margin-bottom:0px;
+		display:block;
+	}
+			
+	.line_2 {
+		margin-top:40px;
+		margin-bottom:40px;
+	}
+			
+	.line_3 {
+		margin-top:40px;
+			}
+			
+	.line_4 {
+		margin-top:20px;
+			}
+
+
+/*
+    #####################
+	Lightbox Styles 
+	#####################
+*/		
+
+.lb-data .lb-caption {
+	font-weight:normal !important;
+}
